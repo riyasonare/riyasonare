@@ -6,7 +6,7 @@
 Aspiring Software Engineer | Java | DSA | MERN Stack Developer
 </h3>
 
-👩‍💻 About Me
+## 👩‍💻 About Me
 
 - 🎓 B.Tech Graduate in Artificial Intelligence & Data Science
 - 🌱 Currently Mastering Java, DSA & MERN Stack Development
