@@ -53,6 +53,17 @@ Aspiring Software Engineer | Java | DSA | MERN Stack Developer
 </a>
 </p>
 ---
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=riyasonare&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyasonare&layout=compact&theme=tokyonight"/>
+
+</p>
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=riyasonare&show_icons=true&theme=tokyonight)
