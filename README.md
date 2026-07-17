@@ -53,7 +53,7 @@ Aspiring Software Engineer | Java | DSA | MERN Stack Developer
 </a>
 </p>
 ---
----
+
 
 ## 📊 GitHub Stats
 
@@ -68,10 +68,8 @@ Aspiring Software Engineer | Java | DSA | MERN Stack Developer
 
 ![](https://github-readme-stats.vercel.app/api?username=riyasonare&show_icons=true&theme=tokyonight)
 
----
-## 💻 Most Used Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=riyasonare&layout=compact&theme=tokyonight)
+
 ## 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=riyasonare&theme=tokyo-night)
