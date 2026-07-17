@@ -52,3 +52,23 @@ Aspiring Software Engineer | Java | DSA | MERN Stack Developer
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=riyasonare&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyasonare&layout=compact&theme=tokyonight"/>
+
+</p>
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=riyasonare&theme=tokyonight"/>
+
+</p>
