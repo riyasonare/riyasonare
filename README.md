@@ -34,6 +34,15 @@ Aspiring Software Engineer | Java | DSA | MERN Stack Developer
 <a href="https://www.linkedin.com/in/riya-sonare" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java,html,css,javascript,react,nodejs,express,mongodb,git,github,vscode" />
+
+</p>
 
 <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
