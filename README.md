@@ -43,7 +43,7 @@ Software Engineer | Java Developer | MERN Stack Developer | DSA Enthusiast
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java, html, css, javascript, react, nodejs, express, mongodb, mysql, git, github, vscode" />
 
 </p>
 
