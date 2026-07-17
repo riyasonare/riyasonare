@@ -9,7 +9,7 @@ Aspiring Software Engineer | Java | MERN Stack | DSA
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech Graduate in Artificial Intelligence & Data Science
-- 🌱 Currently improving my skills in Java, Data Structure & Algorithms & MERN Stack Development
+- 🌱 Currently improving my skills in Java, Data Structures & Algorithms & MERN Stack Development
 - 💻 Solving LeetCode problems daily
 - 🚀 Building real-world full-stack projects
 - ☁️ AWS Cloud Foundations Certified
