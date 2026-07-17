@@ -38,7 +38,7 @@ Aspiring Software Engineer | Java | DSA | MERN Stack Developer
 
 </p>
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="blank">
+<a href="https://leetcode.com/u/riyasonare25/" target="blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
