@@ -6,7 +6,7 @@
 Aspiring Software Engineer | Java | DSA | MERN Stack Developer
 </h3>
 
-## 👩‍💻 About Me
+👩‍💻 About Me
 
 - 🎓 B.Tech Graduate in Artificial Intelligence & Data Science
 - 🌱 Currently Mastering Java, DSA & MERN Stack Development
@@ -29,7 +29,15 @@ Aspiring Software Engineer | Java | DSA | MERN Stack Developer
 <a href="https://www.linkedin.com/in/riya-sonare" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<a href="https://leetcode.com/u/riyasonare25/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
+<a href="mailto:riyasonare25@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 ## 💻 Tech Stack
 
 <p align="left">
