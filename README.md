@@ -3,13 +3,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Java+Developer;DSA+Learner;MERN+Stack+Developer;Always+Learning+New+Things" />
 </p>
 <h3 align="center">
-Software Engineer | Java Developer | MERN Stack Developer | DSA Enthusiast
+Aspiring Software Engineer | Java | MERN Stack | DSA
 </h3>
 
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech Graduate in Artificial Intelligence & Data Science
-- 🌱 Currently Mastering Java, DSA & MERN Stack Development
+- 🌱 Currently improving my skills in Java, Data Structure & Algorithms & MERN Stack Development
 - 💻 Solving LeetCode problems daily
 - 🚀 Building real-world full-stack projects
 - ☁️ AWS Cloud Foundations Certified
@@ -20,7 +20,7 @@ Software Engineer | Java Developer | MERN Stack Developer | DSA Enthusiast
 - Java
 - Data Structures & Algorithms
 - MERN Stack
-- System Design (beginner)
+- Problem Solving on Leetcode
 - Git & GitHub
 
 ## 🌐 Connect with Me
