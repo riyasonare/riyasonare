@@ -58,8 +58,8 @@ Aspiring Software Engineer | Java | MERN Stack | DSA
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=riyasonare25&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=riyasonare25&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=riyasonare&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=riyasonare&layout=compact&theme=tokyonight"/>
 </p>
 
 ## 📈 Contribution Graph
