@@ -47,12 +47,11 @@ Software Engineer | Java Developer | MERN Stack Developer | DSA Enthusiast
 
 </p>
 
-<a href="https://leetcode.com/u/riyasonare25/" target="blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+## 💡 Coding Profiles
 
-<a href="mailto:riyasonare25@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<p align="left">
+<a href="https://leetcode.com/u/riyasonare25/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 </p>
 
