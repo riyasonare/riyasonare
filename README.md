@@ -29,7 +29,7 @@ Aspiring Software Engineer | Java | MERN Stack | DSA
 <a href="https://www.linkedin.com/in/riya-sonare" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://leetcode.com/u/riyasonare25/">
+<a href="https://leetcode.com/u/riyasonare/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -50,7 +50,7 @@ Aspiring Software Engineer | Java | MERN Stack | DSA
 ## 💡 Coding Profiles
 
 <p align="left">
-<a href="https://leetcode.com/u/riyasonare25/">
+<a href="https://leetcode.com/u/riyasonare/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 </p>
