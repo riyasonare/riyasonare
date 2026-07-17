@@ -6,8 +6,6 @@
 Aspiring Software Engineer | Java | DSA | MERN Stack Developer
 </h3>
 
----
-
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech in Artificial Intelligence & Data Science
@@ -17,8 +15,6 @@ Aspiring Software Engineer | Java | DSA | MERN Stack Developer
 - ☁️ AWS Cloud Foundations Certified
 - 🤖 AWS Machine Learning Foundations Certified
 
----
-
 ## 🎯 Current Focus
 
 - Java
@@ -26,7 +22,6 @@ Aspiring Software Engineer | Java | DSA | MERN Stack Developer
 - MERN Stack
 - System Design (beginner)
 - Git & GitHub
----
 
 ## 🌐 Connect with Me
 
@@ -34,7 +29,6 @@ Aspiring Software Engineer | Java | DSA | MERN Stack Developer
 <a href="https://www.linkedin.com/in/riya-sonare" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
----
 
 ## 💻 Tech Stack
 
@@ -52,7 +46,7 @@ Aspiring Software Engineer | Java | DSA | MERN Stack Developer
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
----
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -62,7 +56,6 @@ Aspiring Software Engineer | Java | DSA | MERN Stack Developer
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyasonare&layout=compact&theme=tokyonight"/>
 
 </p>
-
 
 ## 📈 Contribution Graph
 
